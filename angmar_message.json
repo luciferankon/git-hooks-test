@@ -1,0 +1,10 @@
+{
+	"url": "https://api.github.com/repos/craftybones/key-val-parser/tarball/refs/heads/master",
+	"sha": "master",
+	"pusher": "craftybones",
+	"project": "key-val-parser",
+	"tasks": [
+		{ "queue": "test", "imageName": "orc_sample" },
+		{ "queue": "lint", "imageName": "orc_sample" }
+	]
+}
